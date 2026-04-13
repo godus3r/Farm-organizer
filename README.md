@@ -20,19 +20,19 @@ The project is designed to make farm operations easier to track digitally:
 
 ### Screenshots
 
-![Farm Organizer Screen 0](images/screen-0.jpg)
-![Farm Organizer Screen 1](images/screen-1.jpg)
-![Farm Organizer Screen 2](images/screen-2.jpg)
-![Farm Organizer Screen 3](images/screen-3.jpg)
-![Farm Organizer Screen 4](images/screen-4.jpg)
-![Farm Organizer Screen 5](images/screen-5.jpg)
-![Farm Organizer Screen 6](images/screen-6.jpg)
+| | |
+|---|---|
+| ![Farm Organizer Screen 0](images/screen-0.jpg) | ![Farm Organizer Screen 1](images/screen-1.jpg) |
+| ![Farm Organizer Screen 2](images/screen-2.jpg) | ![Farm Organizer Screen 3](images/screen-3.jpg) |
+| ![Farm Organizer Screen 4](images/screen-4.jpg) | ![Farm Organizer Screen 5](images/screen-5.jpg) |
+| ![Farm Organizer Screen 6](images/screen-6.jpg) |  |
 
 ## Download
 
 Download the latest app release from GitHub:
 
 - [Farm Organizer Releases](https://github.com/godus3r/Farm-organizer/releases)
+- [Farm Organizer on APKPure](https://apkpure.com/farm-organizer/com.farmorganizer)
 
 ## Tech Stack
 
